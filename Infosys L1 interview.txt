@@ -1,0 +1,6 @@
+L1 interview Infosys
+
+1. explain your projects in details.
+2. how you made sure for clinical data security
+3. explain random forest as I am a non technical person
+4. How data was collected
