@@ -1,0 +1,5 @@
+1. explain any project from github
+2. take wallmart dataset and make project
+3. explain any one project in details
+4. what is logistic regression
+5. how data was collected and types of data
