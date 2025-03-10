@@ -1,0 +1,18 @@
+1. How purning is done. Explain 
+2. Taking no. of DT and K-fold validation is same FOR Random Forest or not.
+3. Relation b/w Correlation covariance. How they are diff.
+4. Range of correlation covariance
+5. How wil you handle date if there are date of going I needs to find out if the data is fraud or not.
+   Suppose there are 256 district (place column) date joining( another column) needs to find out if data is fraud & not 
+   Then in this case bining or encoding is not a good thing, here we will find out from which place district (place column) most of the fraud has taken place
+   then majorly focused of bon the areas.
+6. How to handle overfitting and underfitting in both ML and Dl
+7. why eucledian distance not manhatt dist.
+8. what is depth and how it is selected
+9. Find out the probability when a couple have two children atleast one of which is a girl. what is the probability that they have two girls
+10. Explain central limit theorem.
+11. Explain hypothesis testing.
+12. Explain feature selection method. for both descerete and continous data 
+13.assumptions made in Linear regression.
+14. Ginni impurity and entropy
+15. market mix model
