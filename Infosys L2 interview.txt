@@ -1,0 +1,13 @@
+Infosys L2 interview
+1. Tell me the size of data set you had in your project?
+2. explain in details ?
+3. random forest what does it takes variables or observations?
+4. what is bagging and boosting?
+5. what is the threshold how we select threshold(in medical we select lower threshold as we more focus on recall so as to increase recall need to decrease threshold)
+6. what is vgg16? and why it is vgg16?
+7. what were the evalution matrix you used and which evalution matrix you focused more?
+8. how to handle overfitting if you tried everything but overfitting issue is not resolved?
+9. if there is escalation in your team when you were on leave how will you handle this?
+10. Why you want to join infosys with 70hours of working hours which our owner told?
+11. Why you want to join here.
+12. What are you strenght?
